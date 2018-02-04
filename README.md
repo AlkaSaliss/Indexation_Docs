@@ -1,1 +1,1 @@
-# Clustering businesseses according to their ad displays characs
+# Clustering businesseses according to their ads displays characs
